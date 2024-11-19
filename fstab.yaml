@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://aa8f-103-43-112-97.ngrok-free.app/bin/franklin.delivery/prateek1497/aem-forms-boilerplate/main
+    url: https://706a-103-43-112-97.ngrok-free.app/bin/franklin.delivery/prateek1497/aem-forms-boilerplate/main
     type: "markup"
     suffix: ".html"
